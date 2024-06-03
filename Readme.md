@@ -44,7 +44,7 @@ img/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
+   git clone https://github.com/Ayush272002/Simple-Ecommerce
    ```
 2. Open `index.html` in your web browser to view the homepage.
 3. Navigate through the website using the links provided on each page.
