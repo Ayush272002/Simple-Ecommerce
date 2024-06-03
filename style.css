@@ -1211,6 +1211,10 @@ footer .copyright {
     width: 100%;
   }
 
+  #contact-details .map iframe{
+    width: 100%;
+  }
+
   #form-details {
     margin: 10px;
     padding: 30px 10px;
